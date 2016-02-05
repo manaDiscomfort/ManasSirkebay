@@ -10,5 +10,6 @@ package com.toy.anagrams.lib;
  * @author Manas_Sirgebay
  */
 public class asd {
-    
+    public static void main(String args){
+    }
 }
