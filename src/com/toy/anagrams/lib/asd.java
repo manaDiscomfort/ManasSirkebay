@@ -11,5 +11,5 @@ package com.toy.anagrams.lib;
  */
 public class asd {
     public static void main(String args){
-    }
+    system}
 }
